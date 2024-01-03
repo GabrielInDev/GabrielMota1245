@@ -1,7 +1,8 @@
 
 ## Olá Eu sou o Gabriel Pereira Mota👋
 
-[![Portfólio Pessoal](https://img.shields.io/website?label=portfolio-front-end-gabriel&style=for-the-badge&url=https://portfolio-front-end-gabriel/)](https://portfolio-front-end-gabriel)
+[![Portfólio Pessoal](https://img.shields.io/website?label=portfolio-front-end-gabriel&style=for-the-badge&url=https://portfolio-front-end-gabriel/)](https://portfolio-front-end-gabriel.netlify.app/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devgabriel_code/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pereira-mota-45b7b8266/)
 
